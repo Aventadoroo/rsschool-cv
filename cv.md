@@ -1,6 +1,4 @@
-> # rsschool-cv
-
-## **Kirill Grinevich**
+> ## **Kirill Grinevich**
 
 ### **Contacts for communication:**
 ##### **e-mail:** *grinevichkirill2000@gmail.com*
