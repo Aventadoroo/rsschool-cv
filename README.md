@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Aventadoroo.github.io/rsschool-cv/cv
