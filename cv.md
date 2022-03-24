@@ -2,12 +2,12 @@
 
 ## **Kirill Grinevich**
 
-#### **Contacts for communication:**
+### **Contacts for communication:**
 ##### **e-mail:** *grinevichkirill2000@gmail.com*
 ##### **telegram:** *@Aventadoroo*
 ##### **VK:** *[click on link](https://vk.com/kirillgrinevich)*
 
-#### ** Info about me:**
+### **Info about me:**
 
 ##### The goal of my studies at ***rs school*** is to gain practical skills in front-end development.
 ##### I started to get interested in programming 1-1.5 years ago.
@@ -15,13 +15,14 @@
 ##### I realized that I need practice to consolidate my knowledge.
 ##### The whole educational process was on me. I never took courses.
 
-#### ** Skills:**
+### **Skills:**
 
 ##### - HTML
 ##### - CSS/SCSS
 ##### - bad JS
 ##### - use VSCode
 
+### **My first project**
 ##### The first task I chose for myself was to develop a website for my father's work.
 ##### I uploaded this site to free hosting.
 ##### You can visit this site, maybe it will make you laugh. http://k95095ps.beget.tech/
